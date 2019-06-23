@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<formula1>
+  <team name="McLaren">
+    <driver>
+      <name>Kimi Raikkonen</name>
+      <points>112</points>
+    </driver>
+    <driver>
+      <name>Juan Pablo Montoya</name>
+      <points>60</points>
+    </driver>
+  </team>
+
+  <team name="1">
+
+    <driver>
+      <name>Dragomir</name>
+      <points>500</points>
+    </driver>
+
+    <driver>
+      <name>Mihailo</name>
+      <points>20</points>
+    </driver>
+  </team>
+
+</formula1>
